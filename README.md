@@ -4,13 +4,13 @@
 <h3 align="left">Contact me :</h3>
 <p align="left">
   <a href="your link" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/thomas-raynaud-69a6ab252/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" width="40" />
   </a>
   <a href="mailto:thomas.raynaud@edu.univ-fcomte.fr" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/758/758584.png" alt="" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/758/758584.png" alt="" width="40" />
   </a>
 </p>
 
