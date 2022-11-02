@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I'm Thomas RAYNAUD
-###I'm studying in the field of Networks and Telecommunications in France.
+<h3>I'm Thomas RAYNAUD</h3>
+<h3>I'm studying in the field of Networks and Telecommunications in France.</h3>
 
-###Contact me :
+<h3>Contact me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/thomas-raynaud-69a6ab252/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" width="40" />
