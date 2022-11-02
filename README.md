@@ -46,10 +46,11 @@
     <a href="https://www.hackthebox.com/" target="_blank"> <!--htb--->
     <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="hackthebox" width="50"/> 
   </a> 
-    <a href="https://www.root-me.org/" target="_blank"> <!--root me--->
-    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me" width="50"/> 
-      <a href="https://www.cisco.com/c/en/index.html" target="_blank"> <!--cisco--->
-    <img src="" alt="cisco" width="50"/> 
+  <a href="https://www.root-me.org/" target="_blank"> <!--root me--->
+    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me" width="50"/>
+  </a> 
+  <a href="https://www.cisco.com/c/en/index.html" target="_blank"> <!--cisco--->
+    <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="cisco" width="50"/> 
   </a> 
 </p>
 
