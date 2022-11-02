@@ -17,16 +17,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.debian.org/index.fr.html" target="_blank"> <!--Debian--->
-    <img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" alt="Debian" width="40"/> 
+    <img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" alt="Debian" width="50"/> 
   </a> 
   <a href="https://archlinux.fr/" target="_blank"> <!---Arch linux-->
-    <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" width="40"/> 
+    <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" width="50"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <!--C++--->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://devdocs.io/cpp/" target="_blank"> <!--C++--->
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Cplusplus" width="50"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank"> <!--PHP--->
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank"> <!--PHP--->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="50"/> 
   </a> 
   <a href="https://flutter.dev" target="_blank"> <!--HTML--->
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
