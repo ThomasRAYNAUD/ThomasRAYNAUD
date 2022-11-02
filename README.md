@@ -1,11 +1,6 @@
 ### Hi there 👋
-[![MasterHead](https://images3.alphacoders.com/157/157265.jpg)](https://github.com/ThomasRAYNAUD)
 
-
-
-
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="https://images3.alphacoders.com/157/157265.jpg">
 
 
 
