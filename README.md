@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-  <img align="right" alt="Coding" width="400" src="https://images3.alphacoders.com/157/157265.jpg">
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
