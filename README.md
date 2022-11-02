@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="CSS" width="50"/> 
   </a> 
   <a href="https://www.w3schools.com/js/" target="_blank"> <!--JS--->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JS" width="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JS" width="40"/> 
   </a> 
   <a href="https://www.java.com/en/" target="_blank"> <!--Java--->
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50"/> 
@@ -47,10 +47,10 @@
     <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" alt="hackthebox" width="50"/> 
   </a> 
   <a href="https://www.root-me.org/" target="_blank"> <!--root me--->
-    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me" width="50"/>
+    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="root me" width="60"/>
   </a> 
   <a href="https://www.cisco.com/c/en/index.html" target="_blank"> <!--cisco--->
-    <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="cisco" width="50"/> 
+    <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="cisco" width="60"/> 
   </a> 
 </p>
 
