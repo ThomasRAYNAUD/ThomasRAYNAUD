@@ -1,8 +1,8 @@
-<h3>> Hi there 👋</h3>
-<h3>I'm Thomas RAYNAUD</h3>
-<h3>I'm studying in the field of Networks and Telecommunications in France.</h3>
+<h2>> Hi there 👋</h2>
+<h4>I'm Thomas RAYNAUD</h4>
+<h4>I'm studying in the field of Networks and Telecommunications in France.</h4>
 <br>
-<h3>> Contact me :</h3>
+<h2>> Contact me :</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/thomas-raynaud-69a6ab252/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="" width="40" />
@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">>Languages and Tools:</h3>
+<h2 align="left">>Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.debian.org/index.fr.html" target="_blank"> <!--Debian--->
     <img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" alt="Debian" width="50"/> 
@@ -59,7 +59,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">> Cybersecurity :</h3>
+<h2 align="left">> Cybersecurity :</h2>
 <p>- I'm currently learning with online resources (HackTheBox, RootMe)</p>
 <p>- I chose the cybersecurity option in my training</p>
 <!--
