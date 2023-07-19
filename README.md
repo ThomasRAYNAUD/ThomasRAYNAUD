@@ -1,6 +1,6 @@
 <h2>> Hi there 👋</h2>
 <h4>I'm Thomas RAYNAUD</h4>
-<h4>I'm studying in the field of Networks and Telecommunications in France.</h4>
+<h4>I'm studying in the field of Telecommunications in France (INSA Lyon).</h4>
 <br>
 <h2>> Contact me :</h2>
 <p align="left">
