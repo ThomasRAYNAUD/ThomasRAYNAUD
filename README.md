@@ -18,4 +18,3 @@
 
 <h2 align="left">> Cybersecurity :</h2>
 - I’m currently learning in Cybersecurity with HTB,RM, THM
-- I study in the field of Networks and Telecoms
